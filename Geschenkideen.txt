@@ -1,4 +1,7 @@
 Haus
 Pferd
 Auto
+PC
+Kette
+
 
